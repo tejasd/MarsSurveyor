@@ -1,6 +1,6 @@
 # MarsSurveyor
 
-This was used as the basis for the following papers:
+This was used as the basis for the Genetic Algorithm sections on the following papers:
 
 [Revisiting the Mars Surveyor Challenge](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=t0FGeK0AAAAJ&citation_for_view=t0FGeK0AAAAJ:u5HHmVD_uO8C)
 
